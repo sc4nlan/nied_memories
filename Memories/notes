@@ -1,0 +1,8 @@
+
+-(FEITO) configurar router do sidebar
+-(EM ANDAMENTO) componentizar as listas de usuários e projetos
+-criar formulário de add usuário
+-prepapar para receber o backend
+-(FEITO) trocar icones com react-icons (instalar npm install react-icons)
+-fazer barra do topo
+
